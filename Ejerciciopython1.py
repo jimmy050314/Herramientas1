@@ -1,3 +1,4 @@
+
 def calculadora():
 	Operacion=int(input("Bienvenido, elija la operación que desea realizar \n1.Suma. \n2.Resta. \n3.Multiplicacion. \n4.Division. \n:  "))
 	if(Operacion==1):
@@ -27,4 +28,3 @@ def calculadora():
 		print("El número ingresado no es válido")
 pass
 calculadora()
-
